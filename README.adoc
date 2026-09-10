@@ -1,2 +1,7 @@
 = inukai-norio
+:doctype: article
+:lang: ja
+:toc:
+:toclevels: 1
 
+https://github.com/inukai-norio/inukai-norio/blob/main/%E5%90%8D%E5%89%8D%E3%81%AE%E8%A1%A8%E8%A8%98%E3%81%AB%E9%96%A2%E3%81%97%E3%81%A6.adoc[名前の表記に関して]

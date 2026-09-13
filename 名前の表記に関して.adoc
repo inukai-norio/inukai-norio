@@ -277,8 +277,11 @@ ISO/IEC 646では、JIS X 0213等による氏名と異なる文字列への写�
 INUKAI
 
 許容表記::
++
+----
 Inukai
 inukai
+----
 
 === 名
 
@@ -286,8 +289,11 @@ inukai
 Norio
 
 許容表記::
++
+----
 NORIO
 norio
+----
 
 === 氏名順
 
